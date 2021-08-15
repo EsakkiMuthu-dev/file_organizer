@@ -60,9 +60,5 @@ if __name__ == '__main__':
     pat = input('enter the path to scan:')
     file_organizer(pat)
 
-    '''
-                        os.makedirs(destination)
-                        shutil.move(source,destination)
-                    except FileExistsError:
-                        
-                    '''
+   
+                    
